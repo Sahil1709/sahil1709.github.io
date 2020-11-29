@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+footer{
+    background-color:#263238;
+}
+.footer-copyright {
+    color: white;
+}
+.list-inline-item a {
+    color:white;
+}
+.card-body {
+    color: white;
+    background-color: #263238;
+}
