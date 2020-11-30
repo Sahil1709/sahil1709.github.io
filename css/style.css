@@ -15,3 +15,7 @@ footer{
     color: white;
     background-color: #263238;
 }
+.card {
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 10px  grey;
+}
