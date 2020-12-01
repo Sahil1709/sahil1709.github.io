@@ -1,5 +1,5 @@
 body {
-    background-color:white;
+    background-color:rgb(255, 255, 255);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 footer{
@@ -17,5 +17,5 @@ footer{
 }
 .card {
     margin-bottom: 20px;
-    box-shadow: 5px 5px 10px  grey;
+    box-shadow: 5px 5px 10px  rgb(189, 189, 189);
 }
