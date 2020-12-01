@@ -9,4 +9,5 @@ function light(){
   document.body.style.backgroundColor = "white";
   document.querySelector("footer").style.backgroundColor = "#1d2325";
   document.querySelector(".footer-copyright").style.color = "white";
+  document.querySelector("h1").style.color = "#1d2325";
 }
