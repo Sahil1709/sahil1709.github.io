@@ -5,12 +5,13 @@
 <font face='Courier New' size=4>Hey Guys I have used bootstrap for building this site.<br>
 </font>
 
+Github Site -> [VISIT PLZZ!][site]
+
 <hr>
 
 - Youtube -> [YOUTUBE][youtube]
 - Linkedin -> [Linkedin][linkd]
 - Github -> [GITHUB][github]
-- Github Site -> [Click here][site]
 - Personal Site -> [Click here][site2]
   
 [youtube]:https://www.youtube.com
